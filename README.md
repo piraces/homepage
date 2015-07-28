@@ -3,8 +3,6 @@ Custom Homepage
 
 ![alt tag](screenshots/preview.png "Vista previa de la página")
 
-**Live Demo: [Dark](http://piraces.github.io/homepage/)**
-
 Este repositorio contiene una página de inicio personalizada hecha usando HTML, CSS y Javascript (jQuery). No dudeis en descargar y modificar. Comentarios y sugerencias serán apreciadas. Es algo muy simple, hecho simplemente por entretenimiento.
 
 Características:
