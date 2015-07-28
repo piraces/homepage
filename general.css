@@ -30,8 +30,8 @@ body {
 
 main {
     display: inline-block;
-    min-width: 500px;
-    font-size: 12px;
+    min-width: 750px;
+    font-size: 14px;
     background-size: contain;
     background-repeat: no-repeat;
     border-width: 1px;
